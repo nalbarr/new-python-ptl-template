@@ -10,7 +10,7 @@ license = "MIT"
 line-length=120
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 pyright = "^1.1.367"
 black = "^24.4.2"
 
